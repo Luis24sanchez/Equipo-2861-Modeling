@@ -1,2 +1,2 @@
-# Equipo-2861-Modeling
-Aplicacion Movil Retail/Fintech
+# GLOBAL CASH
+Aplicacion Movil Fintech
